@@ -1,10 +1,10 @@
-# Research Log: theinsyeds Whisper Analysis
+# Research Log: sydkwests Whisper Analysis
 
 ## Project Overview
 **Project Title**: Comprehensive Analysis of OpenAI's Whisper Speech Recognition on Mac M4  
-**Author**: Syed Furqaan Ahmed (@theinsyeds)  
+**Author**: Syed Furqaan Ahmed (@sydkwests)
 **Start Date**: July 1, 2025  
-**Goal**: Create comprehensive research documentation and analysis for @theinsyeds brand  
+**Goal**: Create comprehensive research documentation for sydkwests brand
 
 ## Daily Research Entries
 
@@ -193,4 +193,4 @@ This analysis employed a quantitative experimental approach with:
 **Publication Ready**: YES ✅  
 **Next Phase**: GitHub setup and community dissemination
 
-**Final Note**: This research demonstrates the exceptional performance of local AI deployment on Apple Silicon and provides practical guidance for developers implementing Whisper in production environments. The comprehensive documentation serves both technical and educational purposes, advancing the @theinsyeds brand in AI research and developer education.
+**Final Note**: This research demonstrates the exceptional performance of local AI deployment on Apple Silicon and provides practical guidance for developers implementing Whisper in production environments. The comprehensive documentation serves both technical and educational purposes, advancing the @sydkwests brand in AI research and developer education.
