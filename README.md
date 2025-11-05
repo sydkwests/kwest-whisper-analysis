@@ -47,8 +47,8 @@ theinsyeds-whisper-analysis/
 
 ### Installation
 Clone the repository
-git clone https://github.com/theinsyeds/theinsyeds-whisper-analysis.git
-cd theinsyeds-whisper-analysis
+git clone https://github.com/sydkwests/kwest-whisper-analysis.git
+cd kwest-whisper-analysis
 
 Set up environment
 
@@ -122,16 +122,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Syed Furqaan Ahmed** ([@theinsyeds](https://github.com/theinsyeds))
+**Syed Furqaan Ahmed** ([@sydkwests](https://github.com/sydkwests))
 - Technical Researcher & Writer
 - Specializing in AI systems analysis and developer education
 - Making complex systems clear and accessible
 
 ## 📞 Contact
 
-- GitHub: [@theinsyeds](https://github.com/theinsyeds)
-- Email: theinsyeds@gmail.com
-- Website: coming soon! [theinsyeds.com](https://theinsyeds.com)
+- GitHub: [@sydkwests](https://github.com/sydkwests)
+- Email: sydkwests@gmail.com
+- Website: coming soon! [@sydkwests](https://sydkwests.com/)
 
 ## 🙏 Acknowledgments
 
