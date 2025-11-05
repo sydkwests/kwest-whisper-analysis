@@ -1,4 +1,4 @@
-# Contributing to Theinsyeds Whisper Analysis
+# Contributing to sydkwests Whisper Analysis
 
 🎉 **Thank you for your interest in contributing to our comprehensive Whisper analysis project!** We're excited to have you join our community of researchers and developers working to advance local speech recognition technology.
 
@@ -58,8 +58,8 @@ This project provides comprehensive technical analysis of OpenAI's Whisper speec
 ### Quick Setup
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
-git clone https://github.com/theinsyeds/theinsyeds-whisper-analysis.git
-cd theinsyeds-whisper-analysis
+git clone https://github.com/sydkwests/kwest-whisper-analysis.git
+cd kwest-whisper-analysis
 
 3. **Set up environment**:
 conda create -n whisper-research python=3.11
@@ -145,8 +145,8 @@ Project maintainers have the right to remove, edit, or reject contributions that
 
 ### Reporting Issues
 If you experience or witness unacceptable behavior, please contact:
-- **Email**: theinsyeds@gmail.com
-- **GitHub**: Create a private issue or contact @theinsyeds directly
+- **Email**: sydkwests@gmail.com
+- **GitHub**: Create a private issue or contact @sydkwests directly
 
 ## Recognition
 
@@ -172,8 +172,8 @@ All contributors will be:
 - **Discussions**: Use GitHub Discussions for questions and ideas
 
 ### Contact Information
-- **Project Lead**: Syed Furqaan Ahmed (@theinsyeds)
-- **Email**: theinsyeds@gmail.com
+- **Project Lead**: Syed Furqaan Ahmed (@sydkwests)
+- **Email**: sydkwests@gmail.com
 - **GitHub Discussions**: For community questions
 - **Issues**: For bugs and feature requests
 
