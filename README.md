@@ -14,7 +14,7 @@ This project provides the first comprehensive benchmark of Whisper performance o
 
 ## 📁 Project Structure
 <pre>
-theinsyeds-whisper-analysis/
+sydkwests-whisper-analysis/
 ├── analysis/
 │   ├── notebooks/whisper-pipeline-deep-dive.ipynb
 │   ├── scripts/whisper_test.py
